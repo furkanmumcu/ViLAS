@@ -28,6 +28,7 @@ To calculate and report ViLAS scores on all provided images for the clean and at
 ```
 python run_vilas_all.py
 ```
+Additionally, jupyter notebook version is provided in ```run_vilas_all.ipynb```.
 
 ## Cite
 
